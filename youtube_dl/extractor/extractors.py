@@ -895,6 +895,12 @@ from .pornhub import (
     PornHubPagedVideoListIE,
     PornHubUserVideosUploadIE,
 )
+from .pornhubpremium import (
+    PornHubPremiumIE,
+    PornHubPremiumUserIE,
+    PornHubPremiumPagedVideoListIE,
+    PornHubPremiumUserVideosUploadIE,
+)
 from .pornotube import PornotubeIE
 from .pornovoisines import PornoVoisinesIE
 from .pornoxo import PornoXOIE
